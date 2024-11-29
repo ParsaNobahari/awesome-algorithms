@@ -11,7 +11,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Online Courses](#online-courses)
     - [Books](#books)
     - [Cheat Sheets](#cheat-sheets)
-    - [Dictionaries](#Dictionaries)
     - [Github Libraries](#github-libraries)
     - [Online Judges](#online-judges)
     - [Tools](#tools)
@@ -41,6 +40,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
 * [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
+* [NIST Dictionary](https://xlinux.nist.gov/dads/) - A quick reference for definitions of algorithms and data structure techniques.
 
 ## Youtube Playlists
 
@@ -111,9 +111,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 * [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
-
-## Dictionaries
-* [NIST Dictionary](https://xlinux.nist.gov/dads/) - This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions.
 
 ## Github Libraries
 
